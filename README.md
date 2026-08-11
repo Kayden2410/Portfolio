@@ -1,30 +1,30 @@
-# Bishal Datta — Portfolio
+# Bishal Datta — Experimental Portfolio
 
-A futuristic AI-lab inspired personal portfolio built with Next.js and React.
+A motion-first, experimental personal portfolio for Bishal Datta.
 
-## Highlights
-- Animated portfolio boot sequence
-- Responsive sci-fi interface
+## Visual direction
+- Oversized typography and outline type
+- Animated boot sequence
+- Orbital / grid-based hero graphics
+- Mouse-reactive hero object and custom cursor
+- Animated project scenes
 - Interactive project selector
-- QuantAgent HFT, N-Queens Game and PCA Face Recognition
-- Technical skills and certifications
-- GitHub, email and contact links
+- Responsive navigation and mobile layout
+- Dark editorial / experimental visual system
 
-## Tech Stack
+## Featured work
+- QuantAgent — multi-agent HFT system
+- N-Queens — interactive algorithm game
+- Face / PCA — computer vision pipeline
+
+## Stack
 Next.js · React · JavaScript · CSS · Google Fonts
 
-## Featured Projects
-- [QuantAgent HFT](https://github.com/akshatxb/QuantAgent)
-- [N-Queens Game](https://github.com/Kayden2410/N-queen-Game) · [Live Demo](https://n-queen-game-flame.vercel.app)
-- [PCA Face Recognition](https://github.com/Kayden2410/Face-recognition)
-
-## Local Development
+## Run locally
 ```bash
 npm install
 npm run dev
 ```
 
-Open `http://localhost:3000`.
-
-## Deployment
-This repository is ready to deploy on Vercel. Import the GitHub repository and use the default Next.js build settings.
+## Deploy
+Import `Kayden2410/Portfolio` into Vercel with the default Next.js settings.
